@@ -4035,3 +4035,17 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/1122
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177890&copyownerid=13149
+- title: ICLP
+  year: 2024
+  id: iclp24
+  full_name: 40th International Conference on Logic Programming
+  link: https://www.iclp24.utdallas.edu/
+  deadline: 2024-05-06 23:59
+  place: Dallas, Texas
+  date: October 14 - 17, 2024
+  start: '2024-10-14'
+  end: '2024-10-17'
+  sub: APL
+  ranking: A
+  ranking_link: https://portal.core.edu.au/conf-ranks/1119/
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=180022&copyownerid=20998
