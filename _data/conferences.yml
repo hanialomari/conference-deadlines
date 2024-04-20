@@ -3884,6 +3884,20 @@
   ranking: B
   ranking_link: http://portal.core.edu.au/conf-ranks/611
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177644&copyownerid=13149
+- title: ISMIR
+  year: 2024
+  id: ismir24
+  link: https://ismir2024.ismir.net/
+  deadline: 2024-04-12 23:59
+  abstract_deadline: 2024-04-05 23:59
+  timezone: UTC-12
+  place: San Francisco, California, USA
+  date: November 10 - 14, 2024
+  start: '2024-11-10'
+  end: '2024-11-14'
+  hindex: 43
+  sub: SP
+  note: Mandatory abstract deadline on April 5th, 2024. More info <a href='https://ismir2024.ismir.net/authors/call-for-papers/'>here</a>.
 - title: ISWC
   year: 2024
   id: iswc24
@@ -3929,6 +3943,20 @@
   end: '2024-10-18'
   sub: DM
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177995&copyownerid=139877
+- title: ICLP
+  year: 2024
+  id: iclp24
+  full_name: 40th International Conference on Logic Programming
+  link: https://www.iclp24.utdallas.edu/
+  deadline: 2024-05-06 23:59
+  place: Dallas, Texas
+  date: October 14 - 17, 2024
+  start: '2024-10-14'
+  end: '2024-10-17'
+  sub: APL
+  ranking: A
+  ranking_link: https://portal.core.edu.au/conf-ranks/1119/
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=180022&copyownerid=20998
 - title: CIKM
   year: 2024
   id: cikm24
@@ -4035,17 +4063,3 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/1122
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177890&copyownerid=13149
-- title: ICLP
-  year: 2024
-  id: iclp24
-  full_name: 40th International Conference on Logic Programming
-  link: https://www.iclp24.utdallas.edu/
-  deadline: 2024-05-06 23:59
-  place: Dallas, Texas
-  date: October 14 - 17, 2024
-  start: '2024-10-14'
-  end: '2024-10-17'
-  sub: APL
-  ranking: A
-  ranking_link: https://portal.core.edu.au/conf-ranks/1119/
-  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=180022&copyownerid=20998
