@@ -3884,6 +3884,18 @@
   ranking: B
   ranking_link: http://portal.core.edu.au/conf-ranks/611
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177644&copyownerid=13149
+- title: MIDL
+  year: 2024
+  id: midl24
+  full_name: Medical Imaging with Deep Learning
+  link: https://2024.midl.io/
+  deadline: 2024-04-10 23:59
+  place: Paris, France
+  date: July 3 - 5, 2024
+  start: '2024-07-03'
+  end: '2024-07-05'
+  sub: CV
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=179692&copyownerid=36233
 - title: ISMIR
   year: 2024
   id: ismir24
@@ -3985,6 +3997,18 @@
   end: '2023-12-15'
   sub: ML
   note: Mandatory abstract deadline on May 15, 2024
+- title: GCPR
+  year: 2024
+  id: gcpr24
+  full_name: German Conference on Pattern Recognition
+  link: https://www.gcpr-vmv.de/year/2024
+  deadline: 2024-05-24 23:59
+  place: Munich, Germany
+  date: September 10 - 13, 2024
+  start: '2024-09-10'
+  end: '2024-09-13'
+  sub: ML
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=179378&copyownerid=186233
 - title: RCAE
   year: 2024
   id: rcae24
