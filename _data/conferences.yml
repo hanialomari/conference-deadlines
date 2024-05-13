@@ -3969,6 +3969,20 @@
   ranking: A
   ranking_link: https://portal.core.edu.au/conf-ranks/1119/
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=180022&copyownerid=20998
+- title: BMVC
+  year: 2024
+  id: bmvc24
+  full_name: British Machine Vision Conference
+  link: https://bmvc2024.org/
+  deadline: 2024-05-10 23:59
+  abstract_deadline: 2024-04-26 23:59
+  timezone: UTC
+  place: Glasgow, UK
+  date: November 25 - 28, 2024
+  start: '2024-11-25'
+  end: '2024-11-28'
+  sub: ML
+  note: Mandatory abstract deadline on April 26, 2024
 - title: CIKM
   year: 2024
   id: cikm24
@@ -3992,9 +4006,12 @@
   abstract_deadline: 2024-05-15 23:59
   timezone: UTC
   place: Vancouver, Canada
-  date: December 9 - 15, 2023
+  date: December 9 - 15, 2024
   start: '2024-12-09'
-  end: '2023-12-15'
+  end: '2024-12-15'
+  paperslink: https://proceedings.neurips.cc/
+  pwclink: https://paperswithcode.com/conference/neurips-2024-12
+  hindex: 309
   sub: ML
   note: Mandatory abstract deadline on May 15, 2024
 - title: GCPR
