@@ -4104,3 +4104,44 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/1122
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177890&copyownerid=13149
+- title: AAAI
+  year: 2025
+  id: aaai25
+  full_name: AAAI Conference on Artificial Intelligence
+  link: https://aaai.org/aaai-conference/save-the-date-aaai-25/
+  deadline: 2024-08-15 23:59
+  abstract_deadline: 2023-08-07 23:59
+  timezone: UTC-12
+  place: Philadelphia, USA
+  date: February 25 - March 4, 2025
+  start: '2025-02-25'
+  end: '2025-03-04'
+  hindex: 212
+  sub: DM
+  note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline
+    on Aug 19, 2024. More info <a href='https://aaai.org/aaai-conference/save-the-date-aaai-25/'>here</a>.
+- title: ICASSP
+  year: 2025
+  id: icassp25
+  full_name: IEEE International Conference on Acoustics, Speech and Signal Processing
+  link: https://2025.ieeeicassp.org/
+  deadline: 2024-09-09 23:59
+  timezone: UTC-12
+  place: Hyderabad, India
+  date: April 6 - 11, 2025
+  start: '2025-04-06'
+  end: '2025-04-11'
+  sub: SP
+- title: ICRA
+  year: 2025
+  id: icra25
+  full_name: IEEE International Conference on Robotics and Automation
+  link: https://2025.ieee-icra.org
+  deadline: 2024-09-15 23:59
+  timezone: America/Los_Angeles
+  place: Atlanta, USA
+  date: May 19 - 23, 2025
+  start: '2025-05-19'
+  end: '2025-05-23'
+  hindex: 119
+  sub: RO
