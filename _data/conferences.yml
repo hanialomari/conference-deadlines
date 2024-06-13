@@ -4145,3 +4145,67 @@
   end: '2025-05-23'
   hindex: 119
   sub: RO
+
+- title: WACV
+  year: 2025
+  id: WACV25
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 
+  link: https://wacv2025.thecvf.com/
+  deadline: 2024-07-15 23:59
+  timezone: America/Los_Angeles
+  place: TUCSON, USA
+  date: February 28 - March 4, 2025
+  start: '2025-02-28'
+  end: '2025-03-04'
+  hindex: 76
+  sub: CV
+  note: This is the Round 1 submission.
+
+- title: WACV
+  year: 2025
+  id: WACV25
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 
+  link: https://wacv2025.thecvf.com/
+  deadline: 2024-09-09 23:59
+  timezone: America/Los_Angeles
+  place: TUCSON, USA
+  date: February 28 - March 4, 2025
+  start: '2025-02-28'
+  end: '2025-03-04'
+  hindex: 76
+  sub: CV
+  note: This is the Round 2 submission.
+
+- title: CVPR
+  year: 2025
+  id: cvpr25
+  full_name: IEEE/CVF International Conference on Computer Vision and Pattern Recognition
+  link: http://cvpr2025.thecvf.com/
+  deadline: 2021-11-16 23:59
+  timezone: America/Los_Angeles
+  place: Nashville, Tennessee, USA
+  date: June 17 - 21, 2025
+  start: '2022-06-17'
+  end: '2022-06-21'
+  hindex: 389
+  sub: CV
+  ranking: A
+
+- title: ICCV
+  year: 2025
+  id: iccv2025
+  full_name: International Conference on Computer Vision
+  link: http://iccv2025.thecvf.com/
+  deadline: 2023-03-08 23:59
+  timezone: America/Los_Angeles
+  place: Honolulu, Hawaii, USA
+  date: October 19 - 25, 2023
+  start: '2023-10-02'
+  end: '2023-10-06'
+  hindex: 239
+  sub: CV
+  ranking: A*
+  ranking_link: http://portal.core.edu.au/conf-ranks/638
+  note: Supplementary deadline on Mar 15, 2023. More info <a href='http://iccv2023.thecvf.com/home'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=169651&copyownerid=176401
+
