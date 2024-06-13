@@ -4182,6 +4182,7 @@
   full_name: IEEE/CVF International Conference on Computer Vision and Pattern Recognition
   link: http://cvpr2025.thecvf.com/
   deadline: 2024-11-16 23:59
+  abstract_deadline: 2024-11-04 23:59
   timezone: America/Los_Angeles
   place: Nashville, Tennessee, USA
   date: June 17 - 21, 2025
@@ -4204,8 +4205,26 @@
   end: '2025-10-06'
   hindex: 239
   sub: CV
-  ranking: A*
+  ranking: A
   ranking_link: http://portal.core.edu.au/conf-ranks/638
   note: Supplementary deadline on Mar 15, 2023. More info <a href='http://iccv2023.thecvf.com/home'>here</a>.
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=169651&copyownerid=176401
 
+- title: ICLR
+  year: 2025
+  id: iclr25
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2023
+  deadline: 2024-09-28 23:59
+  abstract_deadline: 2024-09-23 23:59
+  timezone: UTC-12
+  place: Singapore
+  date: May 7 - 11, 2023
+  start: '2025-05-07'
+  end: '2025-05-11'
+  hindex: 286
+  sub: ML
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/2273
+  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=165954&copyownerid=169708
