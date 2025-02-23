@@ -4310,3 +4310,20 @@
   hindex: 192
   sub: NLP
   note: All submissions should be done through ARR. More info <a href="https://aclrollingreview.org/">here</a>.
+
+- title: AAAI
+  year: 2026
+  id: aaai26
+  full_name: AAAI Conference on Artificial Intelligence
+  link: https://aaai.org/aaai-conference/save-the-date-aaai-26/
+  deadline: 2025-08-15 23:59
+  abstract_deadline: 2025-08-07 23:59
+  timezone: UTC-12
+  place: Philadelphia, USA
+  date: February 25 - March 4, 2026
+  start: '2026-02-25'
+  end: '2026-03-04'
+  hindex: 212
+  sub: DM
+  note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline
+    on Aug 19, 2024. More info <a href='https://aaai.org/aaai-conference/save-the-date-aaai-25/'>here</a>.
