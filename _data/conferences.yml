@@ -4281,10 +4281,10 @@
 
 - title: EMNLP
   year: 2025
-  id: acl25
+  id: emnlp25
   full_name: Annual Meeting of the Association for Computational Linguistcs and International
     Joint Conference on Natural Language Processing
-  link: https://2024.aclweb.org/
+  link: https://2025.aclweb.org/
   deadline: 2025-05-19 23:59
   timezone: UTC-12
   place: Bangkok, Thailand
@@ -4297,16 +4297,16 @@
 
 - title: AACL
   year: 2025
-  id: acl25
+  id: aacl25
   full_name: Annual Meeting of the Association for Computational Linguistcs and International
     Joint Conference on Natural Language Processing
-  link: https://2024.aclweb.org/
+  link: https://2025.aclweb.org/
   deadline: 2025-07-28 23:59
   timezone: UTC-12
   place: Bangkok, Thailand
   date: August 11 - 16, 2025
-  start: '2025-08-11'
-  end: '2025-08-16'
+  start: '2025-12-11'
+  end: '2025-12-16'
   hindex: 192
   sub: NLP
   note: All submissions should be done through ARR. More info <a href="https://aclrollingreview.org/">here</a>.
