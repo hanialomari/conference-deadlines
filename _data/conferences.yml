@@ -4239,8 +4239,8 @@
   timezone: America/San_Diego
   place: Online
   date: December 01 - 09, 2021
-  start: '2021-12-01'
-  end: '2021-12-09'
+  start: '2025-12-01'
+  end: '2025-12-09'
   paperslink: https://proceedings.neurips.cc/paper/2025
   pwclink: https://paperswithcode.com/conference/neurips-2025-12
   hindex: 198
@@ -4256,7 +4256,7 @@
   deadline: 2025-07-15 23:59
   timezone: America/Los_Angeles
   place: TUCSON, USA
-  date: February 28 - March 4, 2025
+  date: February 28 - March 4, 2026
   start: '2026-02-28'
   end: '2026-03-04'
   hindex: 76
@@ -4271,7 +4271,7 @@
   deadline: 2025-09-09 23:59
   timezone: America/Los_Angeles
   place: TUCSON, USA
-  date: February 28 - March 4, 2025
+  date: February 28 - March 4, 2026
   start: '2026-02-28'
   end: '2026-03-04'
   hindex: 76
